@@ -1,3 +1,3 @@
-# omiah.github.io
+# omarmiah.com
 
-This is my website.
+This is the website of Omar Miah.
