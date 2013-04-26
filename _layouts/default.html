@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+  <title>{{ page.title }} &mdash; Omar Miah</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Omar Miah" />{% if page.description %}
+  <meta name="description" content="{{page.description}}" /> {% else %}{% endif %}
+
+  <link rel="icon" type="image/ico" href="favicon.ico">
+
+  <link rel="stylesheet" href="/static/css/bootstrap.css" />
+  <link rel="stylesheet" href="/static/css/bootstrap-responsive.css" />
+  <link rel="stylesheet" href="/static/css/styles.css" />
+
+  <script type="text/javascript" src="/static/js/jquery.js"></script>
+  <script type="text/javascript" src="/static/js/bootstrap.js"></script> 
+  <script type="text/javascript" src="/static/js/hover.js"></script> 
+  <script type="text/javascript" src="/static/js/backtotopscroll.js"></script> 
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24220862-1']);
+  _gaq.push(['_setDomainName', 'zenstealth.com']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+</head>
+
+<body>
+{% include header.html %}
+
+<div id="container">
+  <div id="body">
+    <div id="content">
+    {{ content }}
+    </div>
+  </div>
+  <div id="toTop"><button class="btn">Back to Top</button></div>
+</div>
+
+
+</body>
+</html>

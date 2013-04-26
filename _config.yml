@@ -1,13 +1,10 @@
 markdown: rdiscount
 pygments: true
-permalink: /posts/:title
+permalink: /:title
 auto: true
 rdiscount:
   extensions: [smart]
 
 name: Omar Miah
-url: http://Omarmiah.com
-description: A fantastic blog that is fantastic.
-twitter:
-github: Omiah
-gravatar_url: http:
+url: http://omarmiah.com
+description: The fantastic blog of Omar Miah

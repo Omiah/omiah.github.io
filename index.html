@@ -1,14 +1,26 @@
 ---
-layout: layout
+layout: default
 title: "Omar Miah"
----
+description: "The fantastic website of Omar Miah."
+--- 
 
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+<div id="index">
+  <h1>Hello.</h1>
+  <p>My name is Omar Miah. I am a Senior in High School and I have an insane fascination with coding!</p>
+  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+</div>
+
+<div id="recent">
+  <h2>Recent Posts</h2>
+  <section class="content">
+    <ul class="listing">
+      {% for post in site.posts %}
+      <li>
+        <span>{{ post.date | date: "%B %e, %Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+      </ul>
+  </section>
+</div>
+
+</div>

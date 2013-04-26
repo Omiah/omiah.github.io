@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Blog"
+---
+
+<div class="title">
+  <h1><a class="title" href="{{ page.url }}">{{ page.title }}</a></h1>
+  <div class="authoring">Random Thoughts</div>
+</div>
+
+<div id="post">
+{% for post in site.posts %}
+<div class="article well">
+<h2><a href="{{ post.url }}" title="[Permalink] {{ post.title }}">{{ post.title }}</a></h2>
+<div class="authoring post_info">Posted on {{ post.date | date: "%B %e, %Y" }}</div>
+  {{ post.content }}
+</div>
+
+{% if post != paginator.posts.last %}
+
+  {% endif %}
+{% endfor %}
+</div>
