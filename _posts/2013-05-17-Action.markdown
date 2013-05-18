@@ -21,8 +21,7 @@ The "real world", something I have been anticipating for what seems like an eter
   
 <figure>
 ![College](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfhm67sGHbA7ElydNTKPtxl4Hd521AYSRq9-5HDJreYis2nQIY);
-![work](http://tctechcrunch2011.files.wordpress.com/2010/10/android-work.jpg):
-![coding](http://whatstrending.com/wp-content/uploads/2012/01/search_engine_friendly.jpg)
+![work](http://tctechcrunch2011.files.wordpress.com/2010/10/android-work.jpg)
 </figure>
   
   I also am looking forward to doing a lot of integrated projects with my Raspberry Pi that I still have to program. All will come in time. The good news is that I know what I want to major in, Mechanical and Computer Engineering. I will be hired by Google one day, or create something better, something that probably does not exist. The Possibilities are endless.
