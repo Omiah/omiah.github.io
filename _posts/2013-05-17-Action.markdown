@@ -1,0 +1,32 @@
+---
+layout: post
+title: "We Are Live"
+published: true
+category: life
+tag:
+- college
+- life
+- time
+---
+
+The "real world", something I have been anticipating for what seems like an eternity is finally here. On May 31st I walk across a shanty wooden stage and receive my diploma. All is well though, I get to live with my mother for five more months to save a few bucks and then I am off to “enjoy” college life. I suppose it will be enjoyable. There will be less rules and more time for fun, so they say… fun, where can I find fun around here? It is very difficult to be amused by the amenities in this malnourished region of Florida. I wish I could take a road trip to San Francisco to meet developers and learn everything. That would be fun.  
+
+<figure>
+![RoadTrip To San Fran](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3fpk4FE6gsjUSrwFVsBPkJaqS86LMBkaQqAcL8f-VVE-cvi7yTQ)
+<figcaption>A long road trip would be nice.</figcaption>
+</figure>
+
+
+  I wonder how different life will really be though. I have yet to be contacted by any employer at all, but there is still hope, after all I have a whole life ahead of me with so much to do and so little time. Pretty soon I will get my college term schedule and also a work schedule, but I want to find a way to leave room for learning code and coding.
+  
+<figure>
+![College](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfhm67sGHbA7ElydNTKPtxl4Hd521AYSRq9-5HDJreYis2nQIY);
+![work](http://tctechcrunch2011.files.wordpress.com/2010/10/android-work.jpg):
+![coding](http://whatstrending.com/wp-content/uploads/2012/01/search_engine_friendly.jpg)
+</figure>
+  
+  I also am looking forward to doing a lot of integrated projects with my Raspberry Pi that I still have to program. All will come in time. The good news is that I know what I want to major in, Mechanical and Computer Engineering. I will be hired by Google one day, or create something better, something that probably does not exist. The Possibilities are endless.
+
+<figure> 
+![endless](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmDHtaxbhpV_H_feZaYCQpbqKNabF-NTJXtUMCd_zVzQBil5md)
+</figure>
